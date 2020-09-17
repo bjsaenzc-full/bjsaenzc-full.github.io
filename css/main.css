@@ -1,5 +1,35 @@
+header {
+    border-style: solid;
+    border-radius: 1em;
+    border-color: #004F4A;
+}
+
+main {
+    border-style: solid;
+    border-color: #004F4A;
+    border-radius: 1em;
+    width: 50em;
+    padding: 20px;
+    float: left;
+}
+
+#Teaching {
+    border-style: solid;
+    border-radius: 1em;
+    border-color: #004F4A;
+    width: 50em;
+    padding: 20px;
+    float: right;
+}
+
+#Cuadro1 {
+    margin: 20px;
+}
+
 body {
     font-family: Sans-serif;
+    background-color: #d3d3dd;
+    /* lightgray;*/
 }
 
 h1,

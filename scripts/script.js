@@ -1,1 +1,1 @@
-alert("Thank You!");
+var courses = document.getElementById("Courses")
